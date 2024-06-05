@@ -10,3 +10,7 @@ pip install numpy pandas scipy matplotlib seaborn streamlit babel
 streamlit run dashboard.py
 ```
 
+## URL
+```
+https://dashboard-e-commerce-data-analysis-ardrkha.streamlit.app/
+```
